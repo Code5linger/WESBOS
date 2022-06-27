@@ -1,7 +1,9 @@
+import Page from "../components/Page";
+
 export default function SellPage() {
   return (
-    <div>
-      <p>Hay👋</p>
-    </div>
+    <Page>
+      <p>Hay👋, I am the sell page</p>
+    </Page>
   );
 }
